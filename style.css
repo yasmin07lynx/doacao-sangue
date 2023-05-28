@@ -77,3 +77,7 @@ font-family: 'Tilt Prism', cursive;
 .icone{
  width: 2%;
 }
+.hemogramas2{
+  display: grid;
+ grid-template-columns: 20% 20% 40% 40%;
+}
