@@ -26,12 +26,12 @@
    }
 
 .titulo-1 {color: rgb(172 172 172);
-     font-size: 40px
+     font-size: 50px
 }
 
 .paragrafo{
   color: rgb(0, 0, 0);
-  font-size: 25px;
+  font-size: 30px;
 
 }
 .site{
@@ -40,7 +40,7 @@
 .titulo-2{
  text-align: center;
   color: rgb(255, 255, 255);
-  font-size: 35px;
+  font-size: 40px;
   border: 5px double black;
   font-family: 'Tilt Prism', cursive;
   font-family: 'Festive', cursive;
